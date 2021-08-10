@@ -394,7 +394,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 3% 5%;
   margin-bottom: 8px;
   transition: 0.3s;
-  font-size: 1.01rem;
+  font-size: 1.5rem;
 }
 
 .nav-menu a i, .nav-menu a:focus i {
